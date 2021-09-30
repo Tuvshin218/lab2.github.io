@@ -1,5 +1,4 @@
-# lab2.github.io
- .
+lab2.github.io
 <html>
 <head>
     <title>The New York Times International</title>
