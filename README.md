@@ -11,7 +11,7 @@ lab2.github.io
                 <th colspan="8">
                     <div class="topnav">
                         <object align=left>
-                        <img src="zurag/Screenshot 2021-09-29 185454.png"width="40"height="40">
+                        <img src="https://github.com/Tuvshin218/lab2.github.io/blob/872cf2c4de1d07417bf9ea6b3aa71d72ca35ef42/zurag/Screenshot%202021-09-29%20193756.jpg"width="40"height="40">
                         <input type="text" placeholder="Search.."style="font-size:12pt;height:30px">
                         </object>
                     </div>
